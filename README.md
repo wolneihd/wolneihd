@@ -1,8 +1,12 @@
-👋 Hi, I’m @wolneihd
+👋 Hi, I’m @wolneihd ...
 ```
-work for the company T-Systems in Blumenau-Brazil in Support for automotive company.
+working for the company T-Systems in Blumenau-Brazil in Support for automotive company.
+Skills:
+- Languages: portuguese, english, german, russian.
+- IT: SQL, API, front-end (html, css, javascript) and Python.
+- Knowledges: Service-Now, JIRA.
 ```
-👀 I’m interested in ... \
+👀 I’m interested in ... 
 ```
 Python and Data-Science skills.
 ```
