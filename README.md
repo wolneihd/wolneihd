@@ -22,11 +22,7 @@ Python and Data-Science stacks.
 ```
 internal projects as junior developer.
 ```
-⚡ Fun fact: ...
-```
-```
-📞 Contact: ...
-**[Linkedin](https://www.linkedin.com/in/wolneihd/)**
+📞 Contact: **[Linkedin](https://www.linkedin.com/in/wolneihd/)**
 
 <!---
 wolneihd/wolneihd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
