@@ -6,8 +6,8 @@ Skills:
 
 - Languages: portuguese, english, german, russian.
 - Front-end: html, css, javascript and Angular.
-- Back-end: Python, Java (Sprinboot).
-- Data-Science: Python (Pandas, MatPlotLib, Seaborn, Linear-Regression), R and Power-BI.
+- Back-end: Python, Java (Springboot).
+- Data-Science: Python (Pandas, Matplotlib, Seaborn, Linear-Regression), R and Power-BI Desktop.
 - Knowledges: Service-Now, JIRA, JSON-Analyses.
 ```
 👀 I’m interested in ... 
