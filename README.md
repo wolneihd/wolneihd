@@ -5,7 +5,9 @@ working for the company T-Systems in Blumenau-Brazil in Support for automotive c
 Skills:
 
 - Languages: portuguese, english, german, russian.
-- IT: SQL, API, front-end (html, css, javascript) and Python.
+- Front-end: html, css, javascript and Angular.
+- Back-end: Python, Java (Sprinboot).
+- Data-Science: Python (Pandas, MatPlotLib, Seaborn, Linear-Regression), R and Power-BI.
 - Knowledges: Service-Now, JIRA, JSON-Analyses.
 ```
 👀 I’m interested in ... 
@@ -14,7 +16,7 @@ Python and Data-Science skills.
 ```
 🌱 I’m currently learning ...
 ```
-Python, Java and main tecnologies for front-end.
+Python and Data-Science stacks.
 ```
 💞️ I’m looking to collaborate on ...
 ```
@@ -22,8 +24,10 @@ internal projects as junior developer.
 ```
 ⚡ Fun fact: ...
 ```
-dancer and amateur accordion musician.
 ```
+📞 Contact: ...
+**[Linkedin](https://www.linkedin.com/in/wolneihd/)**
+
 <!---
 wolneihd/wolneihd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
