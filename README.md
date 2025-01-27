@@ -8,11 +8,12 @@ Skills:
 - Front-end: html, css, javascript and Angular.
 - Back-end: Python, Java (Springboot).
 - Data-Science: Python (Pandas, Matplotlib, Seaborn, Linear-Regression), R and Power-BI Desktop.
+- Low-level: eletronic, Arduino (C++ language) and PySerial. 
 - Knowledges: Service-Now, JIRA, JSON-Analyses.
 ```
 👀 I’m interested in ... 
 ```
-Python and Data-Science skills.
+- Python with Data Science (ML) integrating C++ inputs from some extenal device (Arduino and/or other eletronic component).
 ```
 🌱 I’m currently learning ...
 ```
